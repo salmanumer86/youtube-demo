@@ -29,7 +29,6 @@
     border-color: darkgray;
     color: snow;
 }
-
 #voiceIconDiv{
     width: 10%; padding-left: 10px
 }
@@ -40,8 +39,6 @@
     width: 40px;
     height: 40px;
 }
-
-
 #searchButtonStyle{
     width: 70px;
     height: 40px;

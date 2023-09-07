@@ -1,0 +1,135 @@
+#mainNavDiv{
+    background-color: #0f0f0f; width: 100%; display: flex
+}
+#mainLogoNavIconDiv{
+    display: flex; align-items: center; width: 20%;
+}
+#navIconDiv{
+    width: 20%; padding-left: 14px
+}
+#logoDiv{
+    width: 80%
+}
+#navStyle{
+    width: 30px
+}
+#logoStyle{
+    width: 150px
+}
+#inputDiv{
+    width: 50%; align-self: center; display: flex
+}
+#inputStyle{
+    width: 600px;
+    height: 40px;
+    background-color: #0f0f0f;
+    border-right: none;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-color: darkgray;
+    color: snow;
+}
+
+#voiceIconDiv{
+    width: 10%; padding-left: 10px
+}
+#voiceIconStyle{
+    background-color: #222222;
+    color: snow;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+}
+
+
+#searchButtonStyle{
+    width: 70px;
+    height: 40px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: #222222;
+    color:snow;
+    align-self: center;
+}
+#navRightIconsDiv{
+    width: 30%;
+    align-self: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+.navIconDivStyle{
+    width: 10%
+}
+.rightIconsStyle1{
+    width: 30px
+}
+#rightIconStyle2{
+    width: 30px; border-radius: 30px; height: 30px
+}
+
+#mainListIconDiv{width: 100%; display: flex}
+
+#listIconsDiv{
+    width: 15%;
+    background-color: #0f0f0f;
+    display: flex;
+    flex-direction: column;
+    padding-top: 1%;
+}
+.listIconsDivStyle{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 4%;
+}
+.listImageDiv{
+    width: 35%
+}
+.listImageStyle{
+    width: 40px
+}
+.listTextDivStyle{
+    width: 35%;
+    padding-right: 5%;
+    color: snow;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+#multipleButtonsDiv{
+    width: 85%
+}
+#multipleButtonsDivStyle{ width: 100%;
+    justify-content: space-between;
+    display: flex;
+    background-color: #0f0f0f;}
+.buttonsTextStyle{
+    color: snow; background-color: #383838
+}
+.videoDivStyle{
+    width: 100%;
+    padding-top: 2%;
+    background-color: #0f0f0f;
+    display: flex;
+    justify-content: space-evenly;
+}
+.videoDivImageStyle{
+    width: 330px; border-radius: 10px
+}
+.smallLogoDiv{
+    display: flex
+}
+.smallLogoDivStyle{
+    margin-top: 10px
+}
+.logoImageStyle{
+    width: 30px; height: 30px; border-radius: 30px
+}
+.videoTextDiv{
+    margin-top: 10px; margin-left: 10px
+}
+.videoTextStyle{
+    text-decoration: none; color: snow
+}
+.videoThumbnailDiv{
+    background-color: #0f0f0f; width: 30%
+}

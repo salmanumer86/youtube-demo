@@ -1,0 +1,68 @@
+#mainNavDiv{
+    background-color: #0f0f0f; width: 100%; display: flex
+}
+#mainLogoNavIconDiv{
+    display: flex; align-items: center; width: 20%;
+}
+#navIconDiv{
+    width: 20%; padding-left: 14px
+}
+#logoDiv{
+    width: 80%
+}
+#navStyle{
+    width: 30px
+}
+#logoStyle{
+    width: 150px
+}
+#inputDiv{
+    width: 50%; align-self: center; display: flex
+}
+#inputStyle{
+    width: 600px;
+    height: 40px;
+    background-color: #0f0f0f;
+    border-right: none;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-color: darkgray;
+    color: snow;
+}
+
+#voiceIconDiv{
+    width: 10%; padding-left: 10px
+}
+#voiceIconStyle{
+    background-color: #222222;
+    color: snow;
+    border-radius: 100px;
+    width: 40px;
+    height: 40px;
+}
+
+
+#searchButtonStyle{
+    width: 70px;
+    height: 40px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: #222222;
+    color:snow;
+    align-self: center;
+}
+#navRightIconsDiv{
+    width: 30%;
+    align-self: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+.navIconDivStyle{
+    width: 10%
+}
+.rightIconsStyle1{
+    width: 30px
+}
+#rightIconStyle2{
+    width: 30px; border-radius: 30px; height: 30px
+}

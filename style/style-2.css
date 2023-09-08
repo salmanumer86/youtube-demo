@@ -26,18 +26,8 @@
     border-right: none;
     border-top-left-radius: 30px;
     border-bottom-left-radius: 30px;
-    border-color: darkgray;
+    border: 2px solid #222222;
     color: snow;
-}
-#voiceIconDiv{
-    width: 10%; padding-left: 10px
-}
-#voiceIconStyle{
-    background-color: #222222;
-    color: snow;
-    border-radius: 100px;
-    width: 40px;
-    height: 40px;
 }
 #searchButtonStyle{
     width: 70px;
@@ -47,6 +37,19 @@
     background-color: #222222;
     color:snow;
     align-self: center;
+    border: 2px solid #222222;
+}
+
+#voiceIconDiv{
+    width: 10%; padding-left: 10px
+}
+#voiceIconStyle{
+    background-color: #222222;
+    color: snow;
+    border-radius: 100px;
+    border: 1px solid #383838;
+    width: 40px;
+    height: 40px;
 }
 #navRightIconsDiv{
     width: 30%;
@@ -58,8 +61,10 @@
     width: 10%
 }
 .rightIconsStyle1{
-    width: 30px
+    width: 30px;
+    padding-top: 5px;
 }
 #rightIconStyle2{
-    width: 30px; border-radius: 30px; height: 30px
+    width: 40px; border-radius: 30px; height: 40px
 }
+

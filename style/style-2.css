@@ -67,4 +67,6 @@
 #rightIconStyle2{
     width: 40px; border-radius: 30px; height: 40px
 }
-
+ input:focus{
+    outline: none;
+ }
